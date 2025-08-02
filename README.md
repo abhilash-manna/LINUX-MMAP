@@ -11,3 +11,13 @@ The diagram below illustrates the complete `mmap` call flow, from the user‐spa
 
 Flowchart illustrating the mmap call flow from user space to kernel driver and page tables.
 
+
+# diagram shows how  memory is mapped to process address space
+
+Below is a detailed diagram showing how device or register memory is mapped into a process’s virtual address space:
+
+![Diagram of memory mapping into process virtual address space via mmap]
+
+![Diagram of memory mapping into process virtual address space via mmap](https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/91109781-b360-4968-ad65-fdce962620d5.png)
+
+Diagram of memory mapping into process virtual address space via mmap
