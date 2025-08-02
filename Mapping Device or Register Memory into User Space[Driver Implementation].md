@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Mapping Device or Register Memory into User Space with mmap in Linux Drivers
 
 **Key Takeaway:** To expose device or register memory to user space, implement the driver’s `.mmap` file operation by calling `remap_pfn_range()` (or `io_remap_pfn_range()` for I/O BARs). Validate offsets and lengths, set appropriate page protections, and supply different implementations for character, platform, and PCI drivers.
