@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # but where my doubt arise from i see some where using /dev/mem for mmap and statisn that if the requested memory address is not present in page table it won't work.
 
 can you clear this doubt
