@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # i want to understand the underlying work kernel does for MAP_ANONYMOUS.
 
 There  must be a driver which takes care the mapping.
