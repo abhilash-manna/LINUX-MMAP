@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # MMAP System Call and Driver Implementation: Complete Interview Preparation Guide
 
 ## Understanding mmap System Call
