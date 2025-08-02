@@ -1,6 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# no a diagram shows how  memory is mapped to process address space
+# diagram shows how  memory is mapped to process address space
 
 Below is a detailed diagram showing how device or register memory is mapped into a process’s virtual address space:
 
